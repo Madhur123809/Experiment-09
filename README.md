@@ -19,19 +19,19 @@ improves performance.
 
 NumPy provides various functionalities such as:
 
-1 ->  Array Creation: Arrays can be created using functions like array(), zeros(), ones(), arange(), and linspace().
+A ->  Array Creation: Arrays can be created using functions like array(), zeros(), ones(), arange(), and linspace().
 
-2 ->  Array Operations: Arithmetic operations (addition, subtraction, multiplication, division) can be performed
+B ->  Array Operations: Arithmetic operations (addition, subtraction, multiplication, division) can be performed
 element-wise between arrays.
 
-3 ->  Indexing and Slicing: Elements or subsets of arrays can be accessed and modified using indexing and slicing techniques.
+C ->  Indexing and Slicing: Elements or subsets of arrays can be accessed and modified using indexing and slicing techniques.
 
-4 ->  Shape Manipulation: Functions like reshape(), flatten(), and transpose() help in changing the structure of arrays.
+D ->  Shape Manipulation: Functions like reshape(), flatten(), and transpose() help in changing the structure of arrays.
 
-5 ->   Mathematical Functions: NumPy provides built-in mathematical operations such as mean, sum, standard deviation, square 
+F  ->   Mathematical Functions: NumPy provides built-in mathematical operations such as mean, sum, standard deviation, square 
 root, and trigonometric functions.
 
-6 ->  Multi-Dimensional Arrays: It supports 1D, 2D, and higher-dimensional arrays, which are widely used in data analysis, 
+G  ->  Multi-Dimensional Arrays: It supports 1D, 2D, and higher-dimensional arrays, which are widely used in data analysis, 
 machine learning, and scientific computing.
 
 Commands Used :
