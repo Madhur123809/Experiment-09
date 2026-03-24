@@ -1,10 +1,13 @@
 # Experiment-09
 
 Madhur Gupta 
+
 25070123070
 
 Experiment No. 9 – Study of NumPy Library
+
 Aim: Tools for EDA - Study of Numpy Library
+
 Theory:
 
 NumPy (Numerical Python) is a powerful open-source library used in Python for numerical and mathematical computations. 
